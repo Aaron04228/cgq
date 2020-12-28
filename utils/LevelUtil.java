@@ -3,9 +3,7 @@ package com.wuyr.catchpiggy.utils;
 import com.wuyr.catchpiggy.customize.views.Item;
 import com.wuyr.catchpiggy.models.MissionData;
 
-/**
- * Created by wuyr on 17-10-23 下午5:40.
- */
+
 
 public class LevelUtil {
 
