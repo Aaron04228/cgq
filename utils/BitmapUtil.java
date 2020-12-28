@@ -8,9 +8,6 @@ import android.graphics.Matrix;
 import android.graphics.drawable.BitmapDrawable;
 import android.support.annotation.DrawableRes;
 
-/**
- * Created by wuyr on 17-11-11 下午3:55.
- */
 
 public class BitmapUtil {
 
