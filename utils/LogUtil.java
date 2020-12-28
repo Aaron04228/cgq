@@ -6,9 +6,6 @@ import android.util.Log;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
-/**
- * Created by wuyr on 6/8/16 6:54 PM.
- */
 @SuppressWarnings({"unused", "WeakerAccess", "SameParameterValue"})
 public class LogUtil {
 
