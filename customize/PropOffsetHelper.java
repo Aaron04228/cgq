@@ -12,13 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Future;
 
-/**
- * Created by wuyr on 17-12-8 上午2:50.
- */
 
-/**
- * 修猪圈模式中的树头(未放置)位置更新辅助类
- */
 public class PropOffsetHelper {
 
     private float mPropOffsetSpeed;//树头的移动速度
