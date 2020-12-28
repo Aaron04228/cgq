@@ -6,9 +6,7 @@ import com.wuyr.catchpiggy.R;
 
 import java.util.Locale;
 
-/**
- * Created by wuyr on 17-12-28 下午7:33.
- */
+
 
 public class MissionData {
     public long speed;//小猪速度
