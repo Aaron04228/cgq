@@ -5,9 +5,6 @@ import android.content.SharedPreferences;
 
 import com.tencent.bugly.crashreport.CrashReport;
 
-/**
- * Created by wuyr on 17-10-23 下午1:14.
- */
 
 public class Application extends com.mob.MobApplication {
 
