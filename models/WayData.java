@@ -1,8 +1,5 @@
 package com.wuyr.catchpiggy.models;
 
-/**
- * Created by wuyr on 17-10-16 下午11:56.
- */
 
 public class WayData {
     public int count;//方向上空闲状态的格子数
