@@ -6,13 +6,7 @@ import android.os.SystemClock;
 
 import com.wuyr.catchpiggy.utils.ThreadPool;
 
-/**
- * Created by wuyr on 17-11-22 下午5:02.
- */
 
-/**
- * 自己封装的路径动画类
- */
 public class PathAnimation {
 
     private Keyframes mPathKeyframes;//关键帧
