@@ -5,13 +5,7 @@ import android.graphics.PointF;
 
 import java.util.Collections;
 
-/**
- * Created by wuyr on 17-11-22 上午12:45.
- */
 
-/**
- * 关键帧,参考自SDK
- */
 class PathKeyframesSupport extends Keyframes {
 
     private static final float PRECISION = 0.5f;
