@@ -6,13 +6,7 @@ import android.graphics.PointF;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by wuyr on 17-11-29 上午3:50.
- */
 
-/**
- * 就加了一个List用来保存路径的数据
- */
 public class MyPath extends Path {
 
     private List<PointF> data;
