@@ -7,13 +7,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Queue;
 
-/**
- * Created by wuyr on 17-11-22 下午8:56.
- */
 
-/**
- * 处理路径动画的
- */
 abstract class Keyframes {
 
     MyPath mPath;
