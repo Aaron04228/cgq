@@ -7,9 +7,6 @@ import com.wuyr.catchpiggy.customize.MyDrawable;
 
 import java.util.Locale;
 
-/**
- * Created by wuyr on 17-12-4 上午2:14.
- */
 
 public class PropData {
     public MyDrawable drawable;
