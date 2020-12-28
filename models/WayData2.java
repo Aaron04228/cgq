@@ -2,9 +2,6 @@ package com.wuyr.catchpiggy.models;
 
 import com.wuyr.catchpiggy.customize.views.Item;
 
-/**
- * Created by wuyr on 17-10-16 下午11:57.
- */
 
 public class WayData2 extends WayData{
     public Item item;
