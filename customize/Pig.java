@@ -20,13 +20,7 @@ import java.util.List;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.atomic.AtomicReference;
 
-/**
- * Created by wuyr on 17-11-21 下午5:45.
- */
 
-/**
- * 小猪
- */
 public class Pig {
 
     public static final int STATE_STANDING = 0, STATE_RUNNING = 1, STATE_DRAGGING = 2;
