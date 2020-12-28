@@ -3,13 +3,7 @@ package com.wuyr.catchpiggy.customize;
 import android.annotation.SuppressLint;
 import android.graphics.PointF;
 
-/**
- * Created by wuyr on 17-11-22 上午12:45.
- */
 
-/**
- * 关键帧,参考自SDK
- */
 class PathKeyframes extends Keyframes {
     private static final int FRACTION_OFFSET = 0;
     private static final int X_OFFSET = 1;
