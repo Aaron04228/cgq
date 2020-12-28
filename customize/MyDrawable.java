@@ -13,13 +13,7 @@ import com.wuyr.catchpiggy.utils.ThreadPool;
 import java.util.concurrent.Future;
 import java.util.concurrent.Semaphore;
 
-/**
- * Created by wuyr on 17-11-21 下午8:03.
- */
-
-/**
- * 自定义的Drawable，类似于AnimationDrawable
- */
+/
 public class MyDrawable extends Drawable implements Cloneable {
 
     private final int mDelay;//帧延时
