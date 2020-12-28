@@ -2,9 +2,7 @@ package com.wuyr.catchpiggy.customize;
 
 import android.view.ViewGroup;
 
-/**
- * Created by wuyr on 17-10-30 下午6:13.
- */
+
 public class MyLayoutParams extends ViewGroup.LayoutParams implements Cloneable {
     public int x;
     public int y;
