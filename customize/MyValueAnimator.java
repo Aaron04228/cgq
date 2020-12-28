@@ -4,13 +4,7 @@ import android.os.SystemClock;
 
 import com.wuyr.catchpiggy.utils.ThreadPool;
 
-/**
- * Created by wuyr on 17-11-27 上午1:57.
- */
 
-/**
- * 自定义的属性动画类(类似于ValueAnimator)
- */
 public class MyValueAnimator {
     private long duration;
     private Object[] mTargets;//参与改变属性的对象
