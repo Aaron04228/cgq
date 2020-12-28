@@ -9,13 +9,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Queue;
 
-/**
- * Created by wuyr on 17-10-16 下午11:54.
- */
 
-/**
- * 亡猪补牢模式计算小猪逃跑路线的工具类
- */
 public class ComputeWayUtil {
 
     private static final int STATE_WALKED = 3;//状态标记(已走过)
