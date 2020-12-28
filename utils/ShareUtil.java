@@ -10,9 +10,7 @@ import cn.sharesdk.tencent.qzone.QZone;
 import cn.sharesdk.wechat.friends.Wechat;
 import cn.sharesdk.wechat.moments.WechatMoments;
 
-/**
- * Created by wuyr on 17-12-29 下午8:43.
- */
+
 
 public class ShareUtil {
 
